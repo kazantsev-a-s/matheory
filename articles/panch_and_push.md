@@ -14,7 +14,7 @@
 
 Можно предложить следующую физическую модель толчка: [[видео толчка]]
 <video width="1280" height="800" controls>
-<source src="data/push.mp4" type="video/mp4">
+<source src="../data/push.mp4" type="video/mp4">
 Ваш браузер не поддерживает видео html5 
 </video> 
 
