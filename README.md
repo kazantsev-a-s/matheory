@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Некоторые теоретические аспекты боевых искусств.
 
-[Первая статья](articles/panch_and_push.md)
+[Толчок и удар](articles/panch_and_push.md)
 
 You can use the [editor on GitHub](https://github.com/kazantsev-a-s/matheory/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
