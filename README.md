@@ -5,3 +5,5 @@
 [Передача энергии и импульса](articles/transfer.md)
 
 [Источники импульса в теле](articles/imp_src.md)
+
+[Передача внутри тела](articles/panch_wave.md)
