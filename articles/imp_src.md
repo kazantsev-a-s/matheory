@@ -14,7 +14,7 @@
 
 Теперь посмотрим как можно изобразить модель удара от центра масс с выбросом импульса в опору:
 <video width="640" height="400" controls>
-	<source src="../data/kick-cm.mp4" type="video/mp4">
+	<source src="../data/compensation-good-floor.mp4" type="video/mp4">
 	Ваш браузер не поддерживает видео html5 в формате mp4
 </video> 
 
