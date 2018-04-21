@@ -6,4 +6,6 @@
 
 [Источники импульса в теле, обеспечение и компенсация движения](articles/imp_src.md)
 
-[Передача внутри тела](articles/panch_wave.md)
+[Передача движения внутри тела](articles/panch_wave.md)
+
+[Общие вопросы уравлением движением](articles/control_general.md)
