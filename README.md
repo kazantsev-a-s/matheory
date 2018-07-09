@@ -9,3 +9,5 @@
 [Передача движения внутри тела](articles/panch_wave.md)
 
 [Общие вопросы уравлением движением](articles/control_general.md)
+
+[Нейрофизиология движения](articles/neurophysiology.md)
