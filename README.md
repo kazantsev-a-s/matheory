@@ -11,3 +11,7 @@
 [Общие вопросы уравлением движением](articles/control_general.md)
 
 [Нейрофизиология движения](articles/neurophysiology.md)
+
+Связь с автором:
+
+<img src="data/maddr.png">
